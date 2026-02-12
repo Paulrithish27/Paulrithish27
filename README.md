@@ -22,9 +22,7 @@
 
 ### 📊 Machine Learning
 - Scikit-learn
-- SMOTE
-- Random Forest
-- XGBoost
+- Matplotlib
 - Pandas
 - NumPy
 
