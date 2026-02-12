@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rith</h1>
+<h1 align="center">Hi 👋, I'm  PAULRITHISH P</h1>
 <h3 align="center">Machine Learning Enthusiast | Python Developer | Backend Learner</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 💳 Built a **Credit Card Fraud Detection System**
 - 📊 Strong in Data Preprocessing & Model Evaluation
 - 🤖 Learning Machine Learning & Deep Learning
 - 🌐 Exploring FastAPI & Backend Development
 - 📱 Building Flutter + FastAPI Projects
+-   Computer vision + Python 
 
 ---
 
@@ -60,6 +60,7 @@
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/paulrithish-p-4963522a1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwOKLQb%2F9QbqOk60ihSIv7w%3D%3D
+  
 - Email: paulrithish45@gmail.com
 
 ---
