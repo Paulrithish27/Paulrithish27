@@ -5,11 +5,11 @@
 
 ## 🚀 About Me
 
-- 📊 Strong in Data Preprocessing & Model Evaluation
-- 🤖 Learning Machine Learning & Deep Learning
-- 🌐 Exploring FastAPI & Backend Development
-- 📱 Building Flutter + FastAPI Projects
--   Computer vision + Python 
+-  Strong in Data Preprocessing & Model Evaluation
+-  Learning Machine Learning & Deep Learning
+-  Exploring FastAPI & Backend Development
+-  Building Flutter + FastAPI Projects
+-  Computer vision + Python 
 
 ---
 
