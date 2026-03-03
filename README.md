@@ -38,7 +38,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 ### 💳 Credit Card Fraud Detection
 - Handled imbalanced dataset using SMOTE
