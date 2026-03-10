@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  PAULRITHISH P</h1>
-<h3 align="center">Machine Learning Enthusiast | Python Developer | Backend Learner</h3>
+<h3 align="center">Machine Learning Developer | Python Developer | Backend Learner</h3>
 
 ---
 
